@@ -9,6 +9,10 @@ namespace MindMap
 {
     interface IView
     {
+        public void mondaytitieflashday(int tietenaantal, string lekkah)
+        {
+            
+        }
         //tettentest
     }
 }

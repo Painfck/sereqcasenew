@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindMap", "MindMap\MindMap.csproj", "{04C50EBC-61B5-45C3-A6AE-72C14E369371}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindMap", "MindMap.csproj", "{04C50EBC-61B5-45C3-A6AE-72C14E369371}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
